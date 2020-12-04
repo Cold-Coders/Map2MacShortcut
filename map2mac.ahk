@@ -4,7 +4,6 @@
 ; Purpose: Mapping the shortcut of Map on Windows. So windows OS could be used as MacOS
 ;          Key Map:
 ;               Alt     -> Command
-;               Windows -> option
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ; Requirment: AutoHotKey (autohotkey.com)
 ;       Alt         -> !
