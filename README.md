@@ -23,7 +23,7 @@ There are several ways to make a script (or any program) launch automatically ev
 
 - Alt            -> Command
 
-* Windows -> option
+
 
 *Supported*: 
 
